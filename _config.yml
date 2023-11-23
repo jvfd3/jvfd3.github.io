@@ -1,13 +1,16 @@
-title: My GitHub Pages Site
+# title: My GitHub Pages Site
+# theme: jekyll-theme-minimal
+
+# # Set the baseurl if your site is hosted under a subpath
+# baseurl: "/Files/Pages"
+
+# # Configure the plugins and other settings as needed
+
+# remote_theme: "jekyll/minima"
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
+#   - jekyll-sitemap
 theme: jekyll-theme-minimal
-
-# Set the baseurl if your site is hosted under a subpath
-baseurl: "/Files/Pages"
-
-# Configure the plugins and other settings as needed
-
-remote_theme: "jekyll/minima"
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
