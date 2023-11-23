@@ -1,8 +1,6 @@
 title: My configured title
 description: My configured description
-baseurl: "/Files/Pages"
-
-# # Set the baseurl if your site is hosted under a subpath
+baseurl: "/Files/Pages" # Set the baseurl if your site is hosted under a subpath
 
 # # Configure the plugins and other settings as needed
 # theme: jekyll-theme-minimal
